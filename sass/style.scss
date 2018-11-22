@@ -1,0 +1,24 @@
+
+.task_name {
+  width:60%;
+  margin-right:10px;
+}
+
+#all_tasks{
+  margin-top:10px;
+  /*display: none;*/
+  margin-bottom: 10px;
+   .task{
+     text-transform: capitalize;
+     padding: 5px;
+ 	 width:calc(100%- 5px);
+ 	 	.glyphicon{
+  			cursor: pointer;
+ 			 padding:5px;
+			}
+		}
+		.mark_complete{
+			  text-decoration: line-through;
+			}
+	}
+
